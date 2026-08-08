@@ -1,1 +1,2 @@
-/*    /index.html   200
+# Netlify SPA Fallback Routing
+/dashboard/*  /dashboard/index.html  200
