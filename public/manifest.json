@@ -1,0 +1,24 @@
+{
+  "name": "KY Inventory Management",
+  "short_name": "KY",
+  "description": "Professional Inventory Management Web Application for Footwear & Apparel",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://pruqqfaqrktypruwoprn.supabase.co/storage/v1/object/public/assets/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://pruqqfaqrktypruwoprn.supabase.co/storage/v1/object/public/assets/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ]
+}
